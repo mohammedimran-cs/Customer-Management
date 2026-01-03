@@ -1,6 +1,6 @@
 ## How to Run the Project
 
-1. Clone the project or extract the ZIP file.
+1. Clone the project.
 
 2. Install backend dependencies:
    composer install
