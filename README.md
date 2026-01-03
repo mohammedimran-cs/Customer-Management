@@ -6,7 +6,6 @@ This project demonstrates my hands-on experience with Laravel, covering the foll
 - Authentication using Laravel Breeze (Login & Register)
 - Blade templates and Blade components
 - CRUD operations using MVC architecture
-- RESTful routing and controller methods
 - Form handling and server-side validation
 - Session flash messages for user feedback
 - Database migrations and seeders
